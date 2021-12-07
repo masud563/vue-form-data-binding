@@ -35,11 +35,11 @@
 
   </form>
 
-  <p>Email: {{email }}</p>
+  <!-- <p>Email: {{email }}</p>
   <p>Password: {{ password }}</p>
   <p>Role: {{ role }}</p>
   <p>Term: {{ term }}</p>
-  <p>Skills: {{skills}}</p>
+  <p>Skills: {{skills}}</p> -->
 
 </template>
 
